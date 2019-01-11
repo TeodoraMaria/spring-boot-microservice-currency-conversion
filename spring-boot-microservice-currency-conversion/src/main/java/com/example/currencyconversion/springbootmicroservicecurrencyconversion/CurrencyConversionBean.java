@@ -26,3 +26,4 @@ public class CurrencyConversionBean {
         this.totalCalculatedAmount = totalCalculatedAmount;
         this.port = port;
     }
+}
